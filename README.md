@@ -1,2 +1,2 @@
-# subtree_repo_1
-this is the subtree repo 1
+# main_repo
+this is the main repo
