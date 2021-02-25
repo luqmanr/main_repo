@@ -1,3 +1,4 @@
 [submodule "lib/temp/subtree_repo_1"]
 	path = lib/temp/subtree_repo_1
 	url = https://github.com/luqmanr/subtree_repo_1
+	branch = main
