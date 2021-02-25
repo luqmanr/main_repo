@@ -1,2 +1,2 @@
 # main_repo
-Testing git repo
+this is the main repo
