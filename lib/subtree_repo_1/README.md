@@ -1,1 +1,2 @@
-# subtree_repo_1
+# main_repo
+Testing git repo
